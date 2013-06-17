@@ -176,7 +176,7 @@ sub clear {
   $W & 2 and $VAL &= 05707;
   $W & 4 and $VAL &= 07770;
 }
-  
+
 
 sub u_or {
   my $val = $VAL;
