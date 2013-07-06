@@ -121,6 +121,8 @@ DESCRIPTION
         This is a boolean which tells getsymchmod() whether or not to apply
         the umask found in $MASK. It defaults to true.
 
+    my @files;
+
 REVISIONS
     *Note: this section was started with version 0.30.*
 
