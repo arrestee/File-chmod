@@ -473,14 +473,7 @@ found in $MASK.  It defaults to true.
 
 =back
 
-=begin test_synopsis
-
-
-
-
-=end test_synopsis
-
-my @files;
+=for test_synopsis my ( @files );
 
 =head1 REVISIONS
 
