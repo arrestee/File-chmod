@@ -649,14 +649,7 @@ Only good for changing "owner" and "other" read-write access.
   perldoc -f chmod
   perldoc -f stat
 
-=begin Pod::Coverage
-
-
-
-
-=end Pod::Coverage
-
-clear
+=for Pod::Coverage clear
 determine_mode
 g_not
 g_or
