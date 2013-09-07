@@ -29,8 +29,9 @@ my %WriteMakefileArgs = (
   },
   "TEST_REQUIRES" => {
     "English" => 0,
-    "File::Find" => 0,
     "File::Temp" => 0,
+    "IO::Handle" => 0,
+    "IPC::Open3" => 0,
     "Test::More" => "0.88"
   },
   "VERSION" => "0.33",
