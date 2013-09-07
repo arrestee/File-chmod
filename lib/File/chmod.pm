@@ -678,8 +678,6 @@ w_or
 x_not
 x_or
 
-=end
-
 =head1 AUTHORS
 
 =over 4
