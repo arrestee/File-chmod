@@ -265,6 +265,9 @@ SEE ALSO
       perldoc -f chmod
       perldoc -f stat
 
+    clear determine_mode g_not g_or l_not l_or mode o_not o_or r_not r_or
+    s_not s_or t_not t_or u_not u_or w_not w_or x_not x_or
+
 AUTHORS
     *   Jeff Pinyan <japhy.734+CPAN@gmail.com>
 
@@ -275,4 +278,11 @@ COPYRIGHT AND LICENSE
 
     This is free software; you can redistribute it and/or modify it under
     the same terms as the Perl 5 programming language system itself.
+
+POD ERRORS
+    Hey! The above document had some coding errors, which are explained
+    below:
+
+    Around line 681:
+        '=end' without a target?
 
